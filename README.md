@@ -1,12 +1,12 @@
 ### Hi there, I'm Scott Guinn 👋
 
-## I'm a Developer, Teacher, Engineer, and Climber
+# I'm a Software Developer, Teacher, Engineer, and Climber
 
-- 🔭 I just graduated from Hack Reactor's Advanced Software Engineering Immersive
-- 🌱 I’m currently working part time as an instructor for that Software Engineering Immersive.
-- 👯 I’m looking for full-time work as a software developer!
+- 🤖 I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
+- 🍎 I was hired on by Galvanize to help teach course mateials and assist students in developing their skills as software engineers
+- 👔 I am actively looking for full-time work as a software developer!
 - 🥅 2021 Goals: Write and deploy a mobile application to the iOS App Store
-- ⚡ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak.
+- ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak
 
 ### Connect with me:
 
@@ -27,6 +27,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
 
 <br />
 
