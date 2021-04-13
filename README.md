@@ -3,10 +3,10 @@
 ## I'm a Developer, Teacher, Engineer, and Climber
 
 - 🔭 I just graduated from Hack Reactor's Advanced Software Engineering Immersive
-- 🌱 I’m currently learning React Native!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have climbed El Capitan
+- 🌱 I’m currently working part time as an instructor for that Software Engineering Immersive.
+- 👯 I’m looking for full-time work as a software developer!
+- 🥅 2021 Goals: Write and deploy a mobile application to the iOS App Store
+- ⚡ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak.
 
 ### Connect with me:
 
