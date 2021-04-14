@@ -3,7 +3,7 @@
 # I'm a Software Developer, Teacher, Engineer, and Climber
 
 - 🤖 I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
-- 🍎 I was hired on by Galvanize to help teach course mateials and assist students in developing their skills as software engineers
+- 🍎 I was hired on by Galvanize to help teach course materials and assist students in developing their skills as software engineers
 - 👔 I am open to new opportunities in software development!
 - 🥅 2021 Goals: Write and deploy a mobile application to the iOS App Store
 - ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak
