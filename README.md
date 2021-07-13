@@ -5,11 +5,7 @@
 - 🤖 I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
 - 🍎 I was hired on by Galvanize to help teach course materials and assist students in developing their skills as software engineers
 - 👔 I am open to new opportunities in software development!
-<<<<<<< HEAD
-- 🥅 2021 Goals: Contribute to open source project that compares .gpx tracks and provides metrics for users that are not available on current Strava and strava-like applications.
-=======
-- 🥅 2021 Goals: Develop my Docker skills and explore the inner workings of Kubernetes
->>>>>>> parent of eba9c3a... Update README.md
+- 🥅 2021 Goals: Contribute to opern source and continue development/learning of Kotlin.
 - ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak!
 
 ### Connect with me:
