@@ -5,7 +5,7 @@
 - 🤖 I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
 - 🍎 I was hired on by Galvanize to help teach course materials and assist students in developing their skills as software engineers
 - 👔 I am open to new opportunities in software development!
-- 🥅 2021 Goals: Explore Docker Swarm and Kubernetes, continue development of Where is the Rum Mobile App and Climber's Companion Web App, learn Swift!
+- 🥅 2021 Goals: Contribute to open source project that compares .gpx tracks and provides metrics for users that are not available on current Strava and strava-like applications.
 - ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak!
 
 ### Connect with me:
