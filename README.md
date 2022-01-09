@@ -3,8 +3,8 @@
 # I'm a Software Developer, Teacher, Engineer, and Climber
 
 - 🤖 I currently work as a software engineer for Webscale Networks providing security, scalability, performance and automation for brands across the globe.
-- 🍎 In the past I was a student and subsequently hired by Galvanize to help teach students web development
-- 👔 I have also worked in robotics, helping to found a successful startup in the marine automation industry called SeaSatellites.
+- 🍎 In the past I was a student and subsequently a teacher for Galvanize (aka Hack Reactor) to help teach students web development
+- 👔 I have also worked in robotics, helping to found a successful autonomous surface vehicle startup called SeaSatellites.
 - 🥅 2022 Goals: I'm on the hunt for a Raspberry Pi 4 for a marine oriented side-project. Let me know if you have any leads!
 - ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak!
 
