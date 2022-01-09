@@ -2,10 +2,10 @@
 
 # I'm a Software Developer, Teacher, Engineer, and Climber
 
-- 🤖 I recently graduated from Hack Reactor's Advanced Software Engineering Immersive
-- 🍎 I was hired on by Galvanize to help teach course materials and assist students in developing their skills as software engineers
-- 👔 I am open to new opportunities in software development!
-- 🥅 2021 Goals: Contribute to opern source and continue development/learning of Kotlin.
+- 🤖 I currently work as a software engineer for Webscale Networks providing security, scalability, performance and automation for brands across the globe.
+- 🍎 In the past I was a student and subsequently hired by Galvanize to help teach students web development
+- 👔 I have also worked in robotics, helping to found a successful startup in the marine automation industry called SeaSatellites.
+- 🥅 2022 Goals: I'm on the hunt for a Raspberry Pi 4 for a marine oriented side-project. Let me know if you have any leads!
 - ⛰️ Fun fact: I have climbed El Capitan, traversed the Teton Range, and climbed the East Face of Long's Peak!
 
 ### Connect with me:
