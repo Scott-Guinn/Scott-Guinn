@@ -1,6 +1,6 @@
 ### Hi there, I'm Scott Guinn 👋
 
-# I'm a Software Developer, Teacher, Engineer, and Climber
+# I'm a Software Developer, Teacher, Engineer, and Father
 
 - 🤖 I currently work as a software engineer for Webscale Networks developing software to manage cloud infrastructure for brands across the globe.
 - 🍎 In the past I was a student and subsequently a teacher for Galvanize (aka Hack Reactor) to help teach students web development.
